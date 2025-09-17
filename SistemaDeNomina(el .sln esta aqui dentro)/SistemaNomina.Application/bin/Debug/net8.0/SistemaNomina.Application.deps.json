@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SistemaNomina.Application/1.0.0": {
+        "dependencies": {
+          "SistemaNomina.Domain": "1.0.0"
+        },
+        "runtime": {
+          "SistemaNomina.Application.dll": {}
+        }
+      },
+      "SistemaNomina.Domain/1.0.0": {
+        "runtime": {
+          "SistemaNomina.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SistemaNomina.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SistemaNomina.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,33 @@
+C:\Users\super\source\repos\SistemaNomina.Domain\bin\Debug\net8.0\SistemaNomina.Domain.deps.json
+C:\Users\super\source\repos\SistemaNomina.Domain\bin\Debug\net8.0\SistemaNomina.Domain.dll
+C:\Users\super\source\repos\SistemaNomina.Domain\bin\Debug\net8.0\SistemaNomina.Domain.pdb
+C:\Users\super\source\repos\SistemaNomina.Domain\obj\Debug\net8.0\SistemaNomina.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\super\source\repos\SistemaNomina.Domain\obj\Debug\net8.0\SistemaNomina.Domain.AssemblyInfoInputs.cache
+C:\Users\super\source\repos\SistemaNomina.Domain\obj\Debug\net8.0\SistemaNomina.Domain.AssemblyInfo.cs
+C:\Users\super\source\repos\SistemaNomina.Domain\obj\Debug\net8.0\SistemaNomina.Domain.csproj.CoreCompileInputs.cache
+C:\Users\super\source\repos\SistemaNomina.Domain\obj\Debug\net8.0\SistemaNomina.Domain.dll
+C:\Users\super\source\repos\SistemaNomina.Domain\obj\Debug\net8.0\refint\SistemaNomina.Domain.dll
+C:\Users\super\source\repos\SistemaNomina.Domain\obj\Debug\net8.0\SistemaNomina.Domain.pdb
+C:\Users\super\source\repos\SistemaNomina.Domain\obj\Debug\net8.0\ref\SistemaNomina.Domain.dll
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema de nomina\SistemaNomina.Domain\bin\Debug\net8.0\SistemaNomina.Domain.deps.json
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema de nomina\SistemaNomina.Domain\bin\Debug\net8.0\SistemaNomina.Domain.dll
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema de nomina\SistemaNomina.Domain\bin\Debug\net8.0\SistemaNomina.Domain.pdb
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema de nomina\SistemaNomina.Domain\obj\Debug\net8.0\SistemaNomina.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema de nomina\SistemaNomina.Domain\obj\Debug\net8.0\SistemaNomina.Domain.AssemblyInfoInputs.cache
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema de nomina\SistemaNomina.Domain\obj\Debug\net8.0\SistemaNomina.Domain.AssemblyInfo.cs
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema de nomina\SistemaNomina.Domain\obj\Debug\net8.0\SistemaNomina.Domain.csproj.CoreCompileInputs.cache
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema de nomina\SistemaNomina.Domain\obj\Debug\net8.0\SistemaNomina.Domain.dll
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema de nomina\SistemaNomina.Domain\obj\Debug\net8.0\refint\SistemaNomina.Domain.dll
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema de nomina\SistemaNomina.Domain\obj\Debug\net8.0\SistemaNomina.Domain.pdb
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema de nomina\SistemaNomina.Domain\obj\Debug\net8.0\ref\SistemaNomina.Domain.dll
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema de nomina-SRS\SistemaNomina.Domain\bin\Debug\net8.0\SistemaNomina.Domain.deps.json
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema de nomina-SRS\SistemaNomina.Domain\bin\Debug\net8.0\SistemaNomina.Domain.dll
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema de nomina-SRS\SistemaNomina.Domain\bin\Debug\net8.0\SistemaNomina.Domain.pdb
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema de nomina-SRS\SistemaNomina.Domain\obj\Debug\net8.0\SistemaNomina.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema de nomina-SRS\SistemaNomina.Domain\obj\Debug\net8.0\SistemaNomina.Domain.AssemblyInfoInputs.cache
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema de nomina-SRS\SistemaNomina.Domain\obj\Debug\net8.0\SistemaNomina.Domain.AssemblyInfo.cs
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema de nomina-SRS\SistemaNomina.Domain\obj\Debug\net8.0\SistemaNomina.Domain.csproj.CoreCompileInputs.cache
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema de nomina-SRS\SistemaNomina.Domain\obj\Debug\net8.0\SistemaNomina.Domain.dll
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema de nomina-SRS\SistemaNomina.Domain\obj\Debug\net8.0\refint\SistemaNomina.Domain.dll
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema de nomina-SRS\SistemaNomina.Domain\obj\Debug\net8.0\SistemaNomina.Domain.pdb
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema de nomina-SRS\SistemaNomina.Domain\obj\Debug\net8.0\ref\SistemaNomina.Domain.dll

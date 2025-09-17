@@ -1,0 +1,45 @@
+C:\Users\super\source\repos\SistemaNomina.Application\bin\Debug\net8.0\SistemaNomina.Application.deps.json
+C:\Users\super\source\repos\SistemaNomina.Application\bin\Debug\net8.0\SistemaNomina.Application.dll
+C:\Users\super\source\repos\SistemaNomina.Application\bin\Debug\net8.0\SistemaNomina.Application.pdb
+C:\Users\super\source\repos\SistemaNomina.Application\bin\Debug\net8.0\SistemaNomina.Domain.dll
+C:\Users\super\source\repos\SistemaNomina.Application\bin\Debug\net8.0\SistemaNomina.Domain.pdb
+C:\Users\super\source\repos\SistemaNomina.Application\obj\Debug\net8.0\SistemaNomina.Application.csproj.AssemblyReference.cache
+C:\Users\super\source\repos\SistemaNomina.Application\obj\Debug\net8.0\SistemaNomina.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\super\source\repos\SistemaNomina.Application\obj\Debug\net8.0\SistemaNomina.Application.AssemblyInfoInputs.cache
+C:\Users\super\source\repos\SistemaNomina.Application\obj\Debug\net8.0\SistemaNomina.Application.AssemblyInfo.cs
+C:\Users\super\source\repos\SistemaNomina.Application\obj\Debug\net8.0\SistemaNomina.Application.csproj.CoreCompileInputs.cache
+C:\Users\super\source\repos\SistemaNomina.Application\obj\Debug\net8.0\SistemaN.D97A9303.Up2Date
+C:\Users\super\source\repos\SistemaNomina.Application\obj\Debug\net8.0\SistemaNomina.Application.dll
+C:\Users\super\source\repos\SistemaNomina.Application\obj\Debug\net8.0\refint\SistemaNomina.Application.dll
+C:\Users\super\source\repos\SistemaNomina.Application\obj\Debug\net8.0\SistemaNomina.Application.pdb
+C:\Users\super\source\repos\SistemaNomina.Application\obj\Debug\net8.0\ref\SistemaNomina.Application.dll
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema de nomina\SistemaNomina.Application\bin\Debug\net8.0\SistemaNomina.Application.deps.json
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema de nomina\SistemaNomina.Application\bin\Debug\net8.0\SistemaNomina.Application.dll
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema de nomina\SistemaNomina.Application\bin\Debug\net8.0\SistemaNomina.Application.pdb
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema de nomina\SistemaNomina.Application\bin\Debug\net8.0\SistemaNomina.Domain.dll
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema de nomina\SistemaNomina.Application\bin\Debug\net8.0\SistemaNomina.Domain.pdb
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema de nomina\SistemaNomina.Application\obj\Debug\net8.0\SistemaNomina.Application.csproj.AssemblyReference.cache
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema de nomina\SistemaNomina.Application\obj\Debug\net8.0\SistemaNomina.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema de nomina\SistemaNomina.Application\obj\Debug\net8.0\SistemaNomina.Application.AssemblyInfoInputs.cache
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema de nomina\SistemaNomina.Application\obj\Debug\net8.0\SistemaNomina.Application.AssemblyInfo.cs
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema de nomina\SistemaNomina.Application\obj\Debug\net8.0\SistemaNomina.Application.csproj.CoreCompileInputs.cache
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema de nomina\SistemaNomina.Application\obj\Debug\net8.0\SistemaN.D97A9303.Up2Date
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema de nomina\SistemaNomina.Application\obj\Debug\net8.0\SistemaNomina.Application.dll
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema de nomina\SistemaNomina.Application\obj\Debug\net8.0\refint\SistemaNomina.Application.dll
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema de nomina\SistemaNomina.Application\obj\Debug\net8.0\SistemaNomina.Application.pdb
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema de nomina\SistemaNomina.Application\obj\Debug\net8.0\ref\SistemaNomina.Application.dll
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema de nomina-SRS\SistemaNomina.Application\bin\Debug\net8.0\SistemaNomina.Application.deps.json
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema de nomina-SRS\SistemaNomina.Application\bin\Debug\net8.0\SistemaNomina.Application.dll
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema de nomina-SRS\SistemaNomina.Application\bin\Debug\net8.0\SistemaNomina.Application.pdb
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema de nomina-SRS\SistemaNomina.Application\bin\Debug\net8.0\SistemaNomina.Domain.dll
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema de nomina-SRS\SistemaNomina.Application\bin\Debug\net8.0\SistemaNomina.Domain.pdb
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema de nomina-SRS\SistemaNomina.Application\obj\Debug\net8.0\SistemaNomina.Application.csproj.AssemblyReference.cache
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema de nomina-SRS\SistemaNomina.Application\obj\Debug\net8.0\SistemaNomina.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema de nomina-SRS\SistemaNomina.Application\obj\Debug\net8.0\SistemaNomina.Application.AssemblyInfoInputs.cache
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema de nomina-SRS\SistemaNomina.Application\obj\Debug\net8.0\SistemaNomina.Application.AssemblyInfo.cs
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema de nomina-SRS\SistemaNomina.Application\obj\Debug\net8.0\SistemaNomina.Application.csproj.CoreCompileInputs.cache
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema de nomina-SRS\SistemaNomina.Application\obj\Debug\net8.0\SistemaN.D97A9303.Up2Date
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema de nomina-SRS\SistemaNomina.Application\obj\Debug\net8.0\SistemaNomina.Application.dll
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema de nomina-SRS\SistemaNomina.Application\obj\Debug\net8.0\refint\SistemaNomina.Application.dll
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema de nomina-SRS\SistemaNomina.Application\obj\Debug\net8.0\SistemaNomina.Application.pdb
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema de nomina-SRS\SistemaNomina.Application\obj\Debug\net8.0\ref\SistemaNomina.Application.dll

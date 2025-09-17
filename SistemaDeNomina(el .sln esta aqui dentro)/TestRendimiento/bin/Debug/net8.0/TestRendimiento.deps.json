@@ -1,0 +1,73 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TestRendimiento/1.0.0": {
+        "dependencies": {
+          "SistemaNomina.Application": "1.0.0",
+          "SistemaNomina.Domain": "1.0.0",
+          "SistemaNomina.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "TestRendimiento.dll": {}
+        }
+      },
+      "SistemaNomina.Application/1.0.0": {
+        "dependencies": {
+          "SistemaNomina.Domain": "1.0.0"
+        },
+        "runtime": {
+          "SistemaNomina.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SistemaNomina.Domain/1.0.0": {
+        "runtime": {
+          "SistemaNomina.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SistemaNomina.Infrastructure/1.0.0": {
+        "dependencies": {
+          "SistemaNomina.Domain": "1.0.0"
+        },
+        "runtime": {
+          "SistemaNomina.Infrastructure.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestRendimiento/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SistemaNomina.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SistemaNomina.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SistemaNomina.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
