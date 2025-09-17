@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "62CJlYk+VpA=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\super\\OneDrive\\Documents\\GitHub2\\Sistema-de-nomina\\SistemaNomina.ConsolaApp.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\super\\OneDrive\\Documents\\GitHub2\\SistemaNomina.Infraestructure\\SistemaNomina.Infrastructure.csproj'. Check that the project reference is valid and that the project file exists.",
+      "projectPath": "C:\\Users\\super\\OneDrive\\Documents\\GitHub2\\Sistema-de-nomina\\SistemaNomina.ConsolaApp.csproj",
+      "filePath": "C:\\Users\\super\\OneDrive\\Documents\\GitHub2\\Sistema-de-nomina\\SistemaNomina.ConsolaApp.csproj",
+      "libraryId": "C:\\Users\\super\\OneDrive\\Documents\\GitHub2\\SistemaNomina.Infraestructure\\SistemaNomina.Infrastructure.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\super\\OneDrive\\Documents\\GitHub2\\SistemaNomina.Application\\SistemaNomina.Application.csproj'. Check that the project reference is valid and that the project file exists.",
+      "projectPath": "C:\\Users\\super\\OneDrive\\Documents\\GitHub2\\Sistema-de-nomina\\SistemaNomina.ConsolaApp.csproj",
+      "filePath": "C:\\Users\\super\\OneDrive\\Documents\\GitHub2\\Sistema-de-nomina\\SistemaNomina.ConsolaApp.csproj",
+      "libraryId": "C:\\Users\\super\\OneDrive\\Documents\\GitHub2\\SistemaNomina.Application\\SistemaNomina.Application.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

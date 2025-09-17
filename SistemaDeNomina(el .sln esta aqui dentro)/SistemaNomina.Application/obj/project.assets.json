@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\super\\OneDrive\\Documents\\GitHub2\\Sistema-de-nomina\\SistemaDeNomina(el .sln esta aqui dentro de ConsolaApp)\\SistemaNomina.Application\\SistemaNomina.Application.csproj",
+      "projectUniqueName": "C:\\Users\\super\\OneDrive\\Documents\\GitHub2\\Sistema-de-nomina\\SistemaDeNomina(el .sln esta aqui dentro)\\SistemaNomina.Application\\SistemaNomina.Application.csproj",
       "projectName": "SistemaNomina.Application",
-      "projectPath": "C:\\Users\\super\\OneDrive\\Documents\\GitHub2\\Sistema-de-nomina\\SistemaDeNomina(el .sln esta aqui dentro de ConsolaApp)\\SistemaNomina.Application\\SistemaNomina.Application.csproj",
+      "projectPath": "C:\\Users\\super\\OneDrive\\Documents\\GitHub2\\Sistema-de-nomina\\SistemaDeNomina(el .sln esta aqui dentro)\\SistemaNomina.Application\\SistemaNomina.Application.csproj",
       "packagesPath": "C:\\Users\\super\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\super\\OneDrive\\Documents\\GitHub2\\Sistema-de-nomina\\SistemaDeNomina(el .sln esta aqui dentro de ConsolaApp)\\SistemaNomina.Application\\obj\\",
+      "outputPath": "C:\\Users\\super\\OneDrive\\Documents\\GitHub2\\Sistema-de-nomina\\SistemaDeNomina(el .sln esta aqui dentro)\\SistemaNomina.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -59,8 +59,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\super\\OneDrive\\Documents\\GitHub2\\Sistema-de-nomina\\SistemaDeNomina(el .sln esta aqui dentro de ConsolaApp)\\SistemaNomina.Domain\\SistemaNomina.Domain.csproj": {
-              "projectPath": "C:\\Users\\super\\OneDrive\\Documents\\GitHub2\\Sistema-de-nomina\\SistemaDeNomina(el .sln esta aqui dentro de ConsolaApp)\\SistemaNomina.Domain\\SistemaNomina.Domain.csproj"
+            "C:\\Users\\super\\OneDrive\\Documents\\GitHub2\\Sistema-de-nomina\\SistemaDeNomina(el .sln esta aqui dentro)\\SistemaNomina.Domain\\SistemaNomina.Domain.csproj": {
+              "projectPath": "C:\\Users\\super\\OneDrive\\Documents\\GitHub2\\Sistema-de-nomina\\SistemaDeNomina(el .sln esta aqui dentro)\\SistemaNomina.Domain\\SistemaNomina.Domain.csproj"
             }
           }
         }

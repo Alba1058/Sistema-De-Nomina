@@ -43,3 +43,19 @@ C:\Users\super\OneDrive\Documents\GitHub2\Sistema de nomina-SRS\SistemaNomina.In
 C:\Users\super\OneDrive\Documents\GitHub2\Sistema de nomina-SRS\SistemaNomina.Infraestructure\obj\Debug\net8.0\refint\SistemaNomina.Infrastructure.dll
 C:\Users\super\OneDrive\Documents\GitHub2\Sistema de nomina-SRS\SistemaNomina.Infraestructure\obj\Debug\net8.0\SistemaNomina.Infrastructure.pdb
 C:\Users\super\OneDrive\Documents\GitHub2\Sistema de nomina-SRS\SistemaNomina.Infraestructure\obj\Debug\net8.0\ref\SistemaNomina.Infrastructure.dll
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema-de-nomina\SistemaDeNomina(el .sln esta aqui dentro)\SistemaNomina.Infraestructure\bin\Debug\net8.0\SistemaNomina.Infrastructure.deps.json
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema-de-nomina\SistemaDeNomina(el .sln esta aqui dentro)\SistemaNomina.Infraestructure\bin\Debug\net8.0\SistemaNomina.Infrastructure.dll
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema-de-nomina\SistemaDeNomina(el .sln esta aqui dentro)\SistemaNomina.Infraestructure\bin\Debug\net8.0\SistemaNomina.Infrastructure.pdb
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema-de-nomina\SistemaDeNomina(el .sln esta aqui dentro)\SistemaNomina.Infraestructure\bin\Debug\net8.0\SistemaNomina.Domain.dll
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema-de-nomina\SistemaDeNomina(el .sln esta aqui dentro)\SistemaNomina.Infraestructure\bin\Debug\net8.0\SistemaNomina.Domain.pdb
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema-de-nomina\SistemaDeNomina(el .sln esta aqui dentro)\SistemaNomina.Infraestructure\obj\Debug\net8.0\SistemaNomina.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema-de-nomina\SistemaDeNomina(el .sln esta aqui dentro)\SistemaNomina.Infraestructure\obj\Debug\net8.0\SistemaNomina.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema-de-nomina\SistemaDeNomina(el .sln esta aqui dentro)\SistemaNomina.Infraestructure\obj\Debug\net8.0\SistemaNomina.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema-de-nomina\SistemaDeNomina(el .sln esta aqui dentro)\SistemaNomina.Infraestructure\obj\Debug\net8.0\SistemaNomina.Infrastructure.AssemblyInfo.cs
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema-de-nomina\SistemaDeNomina(el .sln esta aqui dentro)\SistemaNomina.Infraestructure\obj\Debug\net8.0\SistemaNomina.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema-de-nomina\SistemaDeNomina(el .sln esta aqui dentro)\SistemaNomina.Infraestructure\obj\Debug\net8.0\SistemaNomina.Infrastructure.sourcelink.json
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema-de-nomina\SistemaDeNomina(el .sln esta aqui dentro)\SistemaNomina.Infraestructure\obj\Debug\net8.0\SistemaN.27C8DA2F.Up2Date
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema-de-nomina\SistemaDeNomina(el .sln esta aqui dentro)\SistemaNomina.Infraestructure\obj\Debug\net8.0\SistemaNomina.Infrastructure.dll
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema-de-nomina\SistemaDeNomina(el .sln esta aqui dentro)\SistemaNomina.Infraestructure\obj\Debug\net8.0\refint\SistemaNomina.Infrastructure.dll
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema-de-nomina\SistemaDeNomina(el .sln esta aqui dentro)\SistemaNomina.Infraestructure\obj\Debug\net8.0\SistemaNomina.Infrastructure.pdb
+C:\Users\super\OneDrive\Documents\GitHub2\Sistema-de-nomina\SistemaDeNomina(el .sln esta aqui dentro)\SistemaNomina.Infraestructure\obj\Debug\net8.0\ref\SistemaNomina.Infrastructure.dll
